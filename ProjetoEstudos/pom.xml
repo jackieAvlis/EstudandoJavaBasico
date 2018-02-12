@@ -12,7 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <global.version>master</global.version>
+    <global.version>0.0.0.1</global.version>
   </properties>
 
   <dependencies>
